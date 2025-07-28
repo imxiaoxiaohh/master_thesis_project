@@ -95,10 +95,8 @@ Before running anything, set the required API keys as environment variables.
 #### On Windows (PowerShell):
 ```powershell
 $env:OPENAI_API_KEY="your-openai-key"
-$env:ANTHROPIC_API_KEY="your-anthropic-key"
 $env:DeepSeek_API_Key="your-deepseek-key"
 $env:TOGETHER_API_KEY="your-together-key"
-$env:HF_API_KEY="your-huggingface-key"
 ```
 ### 1. Generate equations:
 ```
